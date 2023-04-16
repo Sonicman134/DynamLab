@@ -1,0 +1,23 @@
+int funk(bool f){
+   int a = 056;
+   bool b = false;
+   f = b & f;
+   switch(0x56){
+       case 56:
+           a = b | f;
+       break;
+    }
+    b = 09;
+    return b | a;
+}
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa**aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa**/
+int main(){
+    bool h = 012;
+    h = a | j;
+    b = t && u;
+    funk(h & a);
+    t & a;
+    b = 000057;
+}

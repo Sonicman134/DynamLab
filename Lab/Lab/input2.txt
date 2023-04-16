@@ -1,0 +1,63 @@
+int funk(bool f, int o){
+   int a = 56, y;
+   bool b = false;
+   b = b || f + 4 * o / (y + b - 5);
+   switch(0x56 < 6){
+       case 56:
+           a = b || f;
+           break;
+       case 7:
+           break;
+       default:
+           b = y * a;
+           break;
+           f = 5;
+    }
+    long u = 0x43;
+    u = 0x9 + 7;
+    return b || a;
+}
+
+int b;
+
+bool ff(int f, bool o){
+    funk(f, o);
+}
+
+int funk(int y, short v, int t){
+    short u;
+    t = u;
+}
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa**aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa**/
+int main(){
+    bool h = true, p;
+    long a, j;
+    short t, u;
+    h = a && s;
+    b = t && 96;
+    funk(h >= a, u);
+    short f = 6 - t;
+    b = 57 / u / 5;
+    //24624rtefsdgrg
+    long r = !false;
+    switch(f == true + 5){
+        case 6:
+            return 0;
+            break;
+        case false:
+            a = true;
+            break;
+        case 10:
+            break;
+        default:
+            f = a + 8 - 9 - 4;
+            a = 6 % 8 / t;
+            break;
+    }
+    int y;
+    y = 9 + y * 5;
+    y = 8;
+    return a;
+}

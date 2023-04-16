@@ -1,0 +1,17 @@
+int main() {
+    int a = 710, b = 12;
+        /*
+        *   comment
+        */
+    int c = 1;
+    bool flag = true;
+    long qwe = 1111111;
+        //comment
+    switch (b){
+    case 1:
+         c=3+a;
+    case 12:
+         c=b-1;
+    }
+    c = b / 3;
+}
